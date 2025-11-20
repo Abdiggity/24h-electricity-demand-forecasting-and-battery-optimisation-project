@@ -59,4 +59,4 @@ The priority would be adaptive control and uncertainty quantification, as those 
 
 Python, LightGBM, pandas, NumPy, Matplotlib, Jupyter.
 
-Time spent: approximately three hours as suggested, plus additional time for reflection on possible improvements.
+Time spent: approximately 3 hours as suggested, plus additional time for reflection on possible improvement. understanding, the data took the longest amount of time. 
